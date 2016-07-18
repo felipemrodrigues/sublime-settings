@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Babel",
+		"Babel Snippets",
+		"Diffy",
+		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"JSONLint",
+		"Material Theme",
+		"Package Control",
+		"Pretty JSON",
+		"SCSS",
+		"SideBarEnhancements",
+		"Slugify",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-json"
+	]
+}
